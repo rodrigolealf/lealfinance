@@ -1,13 +1,16 @@
 {
   "name": "LealFinance",
   "short_name": "LealFinance",
+  "description": "Sistema financeiro pessoal — contas, cartões, investimentos e lançamentos.",
   "start_url": "/lealfinance/",
   "scope": "/lealfinance/",
   "display": "standalone",
   "background_color": "#070B14",
   "theme_color": "#070B14",
   "icons": [
-    { "src": "/lealfinance/icon-180.png", "sizes": "180x180", "type": "image/png" },
-    { "src": "/lealfinance/icon-512.png", "sizes": "512x512", "type": "image/png" }
+    { "src": "/lealfinance/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/lealfinance/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/lealfinance/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "/lealfinance/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
   ]
 }
