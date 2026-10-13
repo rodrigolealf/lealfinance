@@ -1,0 +1,411 @@
+{
+ "versao": 1,
+ "observacao": "Tabela ÚNICA de logos do Leal Finance (iOS, Mac e web). Apelidos já normalizados: minúsculas, sem acento, só letras/números e espaço. Casamento por palavra inteira.",
+ "emissores": [
+  {
+   "id": "bb",
+   "nome": "Banco do Brasil",
+   "apelidos": [
+    "bb",
+    "banco do brasil",
+    "ourocard"
+   ],
+   "fundo": "#FCF800",
+   "asset": "Marca-bb"
+  },
+  {
+   "id": "bradesco",
+   "nome": "Bradesco",
+   "apelidos": [
+    "bradesco",
+    "bradescard",
+    "next bradesco"
+   ],
+   "fundo": "#FFFFFF",
+   "asset": "Marca-bradesco"
+  },
+  {
+   "id": "itau",
+   "nome": "Itaú",
+   "apelidos": [
+    "itau",
+    "itau unibanco",
+    "itaucard",
+    "personnalite",
+    "iti"
+   ],
+   "fundo": "#FFFFFF",
+   "asset": "Marca-itau"
+  },
+  {
+   "id": "santander",
+   "nome": "Santander",
+   "apelidos": [
+    "santander"
+   ],
+   "fundo": "#FFFFFF",
+   "asset": "Marca-santander"
+  },
+  {
+   "id": "caixa",
+   "nome": "Caixa",
+   "apelidos": [
+    "caixa",
+    "caixa economica",
+    "cef"
+   ],
+   "fundo": "#FFFFFF",
+   "asset": "Marca-caixa"
+  },
+  {
+   "id": "nubank",
+   "nome": "Nubank",
+   "apelidos": [
+    "nubank",
+    "nu pagamentos",
+    "nu"
+   ],
+   "fundo": "#FFFFFF",
+   "asset": "Marca-nubank"
+  },
+  {
+   "id": "inter",
+   "nome": "Inter",
+   "apelidos": [
+    "inter",
+    "banco inter"
+   ],
+   "fundo": "#FFFFFF",
+   "asset": "Marca-inter"
+  },
+  {
+   "id": "c6",
+   "nome": "C6 Bank",
+   "apelidos": [
+    "c6",
+    "c6 bank",
+    "c6bank"
+   ],
+   "fundo": "#FFFFFF",
+   "asset": "Marca-c6"
+  },
+  {
+   "id": "btg",
+   "nome": "BTG Pactual",
+   "apelidos": [
+    "btg",
+    "btg pactual"
+   ],
+   "fundo": "#FFFFFF",
+   "asset": "Marca-btg"
+  },
+  {
+   "id": "xp",
+   "nome": "XP",
+   "apelidos": [
+    "xp",
+    "xp investimentos"
+   ],
+   "fundo": "#FFFFFF",
+   "asset": "Marca-xp"
+  },
+  {
+   "id": "porto",
+   "nome": "Porto",
+   "apelidos": [
+    "porto",
+    "porto bank",
+    "porto seguro",
+    "portoseg",
+    "porto seguro cartoes"
+   ],
+   "fundo": "#FFFFFF",
+   "asset": "Marca-porto"
+  },
+  {
+   "id": "pan",
+   "nome": "Banco Pan",
+   "apelidos": [
+    "pan",
+    "banco pan"
+   ],
+   "fundo": "#FFFFFF",
+   "asset": "Marca-pan"
+  },
+  {
+   "id": "original",
+   "nome": "Original",
+   "apelidos": [
+    "original",
+    "banco original"
+   ],
+   "fundo": "#FFFFFF",
+   "asset": "Marca-original"
+  },
+  {
+   "id": "picpay",
+   "nome": "PicPay",
+   "apelidos": [
+    "picpay"
+   ],
+   "fundo": "#FFFFFF",
+   "asset": "Marca-picpay"
+  },
+  {
+   "id": "mercadopago",
+   "nome": "Mercado Pago",
+   "apelidos": [
+    "mercado pago",
+    "mercadopago",
+    "mercado livre"
+   ],
+   "fundo": "#FFFFFF",
+   "asset": "Marca-mercadopago"
+  },
+  {
+   "id": "pagbank",
+   "nome": "PagBank",
+   "apelidos": [
+    "pagbank",
+    "pagseguro",
+    "pag bank"
+   ],
+   "fundo": "#FFFFFF",
+   "asset": "Marca-pagbank"
+  },
+  {
+   "id": "neon",
+   "nome": "Neon",
+   "apelidos": [
+    "neon"
+   ],
+   "fundo": "#FFFFFF",
+   "asset": "Marca-neon"
+  },
+  {
+   "id": "sicoob",
+   "nome": "Sicoob",
+   "apelidos": [
+    "sicoob"
+   ],
+   "fundo": "#FFFFFF",
+   "asset": "Marca-sicoob"
+  },
+  {
+   "id": "sicredi",
+   "nome": "Sicredi",
+   "apelidos": [
+    "sicredi"
+   ],
+   "fundo": "#FFFFFF",
+   "asset": "Marca-sicredi"
+  },
+  {
+   "id": "banrisul",
+   "nome": "Banrisul",
+   "apelidos": [
+    "banrisul"
+   ],
+   "fundo": "#FFFFFF",
+   "asset": "Marca-banrisul"
+  },
+  {
+   "id": "brb",
+   "nome": "BRB",
+   "apelidos": [
+    "brb",
+    "banco de brasilia"
+   ],
+   "fundo": "#FFFFFF",
+   "asset": "Marca-brb"
+  },
+  {
+   "id": "safra",
+   "nome": "Safra",
+   "apelidos": [
+    "safra"
+   ],
+   "fundo": "#FFFFFF",
+   "asset": "Marca-safra"
+  },
+  {
+   "id": "bnb",
+   "nome": "Banco do Nordeste",
+   "apelidos": [
+    "bnb",
+    "banco do nordeste",
+    "nordeste"
+   ],
+   "fundo": "#FFFFFF",
+   "asset": "Marca-bnb"
+  },
+  {
+   "id": "bv",
+   "nome": "Banco BV",
+   "apelidos": [
+    "bv",
+    "banco bv",
+    "votorantim"
+   ],
+   "fundo": "#FFFFFF",
+   "asset": "Marca-bv"
+  },
+  {
+   "id": "bmg",
+   "nome": "BMG",
+   "apelidos": [
+    "bmg",
+    "banco bmg"
+   ],
+   "fundo": "#FFFFFF",
+   "asset": "Marca-bmg"
+  },
+  {
+   "id": "stone",
+   "nome": "Stone",
+   "apelidos": [
+    "stone"
+   ],
+   "fundo": "#00A868",
+   "asset": "Marca-stone"
+  },
+  {
+   "id": "cora",
+   "nome": "Cora",
+   "apelidos": [
+    "cora"
+   ],
+   "fundo": "#FFFFFF",
+   "asset": "Marca-cora"
+  },
+  {
+   "id": "magalupay",
+   "nome": "MagaluPay",
+   "apelidos": [
+    "magalupay",
+    "magalu",
+    "luiza"
+   ],
+   "fundo": "#FFFFFF",
+   "asset": "Marca-magalupay"
+  },
+  {
+   "id": "agibank",
+   "nome": "Agibank",
+   "apelidos": [
+    "agibank",
+    "agi"
+   ],
+   "fundo": "#FFFFFF",
+   "asset": "Marca-agibank"
+  },
+  {
+   "id": "wise",
+   "nome": "Wise",
+   "apelidos": [
+    "wise"
+   ],
+   "fundo": "#163300",
+   "asset": "Marca-wise"
+  },
+  {
+   "id": "carrefour",
+   "nome": "Carrefour",
+   "apelidos": [
+    "carrefour",
+    "cartao carrefour"
+   ],
+   "fundo": "#FFFFFF",
+   "asset": "Marca-carrefour"
+  },
+  {
+   "id": "atacadao",
+   "nome": "Atacadão",
+   "apelidos": [
+    "atacadao"
+   ],
+   "fundo": "#FFFFFF",
+   "asset": "Marca-atacadao"
+  }
+ ],
+ "bandeiras": [
+  {
+   "id": "visa",
+   "nome": "Visa",
+   "apelidos": [
+    "visa"
+   ],
+   "fundo": "#FFFFFF",
+   "asset": "Marca-visa"
+  },
+  {
+   "id": "mastercard",
+   "nome": "Mastercard",
+   "apelidos": [
+    "mastercard",
+    "master card",
+    "master"
+   ],
+   "fundo": "#FFFFFF",
+   "asset": "Marca-mastercard"
+  },
+  {
+   "id": "amex",
+   "nome": "American Express",
+   "apelidos": [
+    "amex",
+    "american express"
+   ],
+   "fundo": "#FFFFFF",
+   "asset": "Marca-amex"
+  },
+  {
+   "id": "diners",
+   "nome": "Diners Club",
+   "apelidos": [
+    "diners",
+    "diners club"
+   ],
+   "fundo": "#FFFFFF",
+   "asset": "Marca-diners"
+  },
+  {
+   "id": "hipercard",
+   "nome": "Hipercard",
+   "apelidos": [
+    "hipercard",
+    "hiper"
+   ],
+   "fundo": "#FFFFFF",
+   "asset": "Marca-hipercard"
+  }
+ ],
+ "genericos": {
+  "cofre": {
+   "apelidos": [
+    "cofre",
+    "dinheiro",
+    "carteira",
+    "especie",
+    "caixinha"
+   ],
+   "simbolo": "banknote.fill"
+  },
+  "banco": {
+   "simbolo": "building.columns.fill"
+  },
+  "cartao": {
+   "simbolo": "creditcard.fill"
+  },
+  "investimento": {
+   "simbolo": "chart.line.uptrend.xyaxis"
+  }
+ },
+ "bandeiraDoCampo": {
+  "Visa": "visa",
+  "Mastercard": "mastercard",
+  "Amex": "amex",
+  "Elo": null,
+  "Outra": null
+ }
+}
