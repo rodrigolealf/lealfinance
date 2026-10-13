@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "observacao": "Tabela ÚNICA de logos do Leal Finance (iOS, Mac e web). Apelidos já normalizados: minúsculas, sem acento, só letras/números e espaço. Casamento por palavra inteira.",
+ "observacao": "Tabela ÚNICA de logos do Leal Finance (iOS, Mac e web). Apelidos já normalizados: minúsculas, sem acento, só letras/números e espaço. Casamento por palavra inteira. Fase 19c: as logos dos emissores são ÍCONES DE APP (512 px, fundo da marca até a borda, símbolo centralizado); desenhar o PNG ocupando o quadro inteiro, sem margem, com o mesmo raio das logos manuais. `fundo` = cor do canto do ícone.",
  "emissores": [
   {
    "id": "bb",
@@ -10,7 +10,7 @@
     "banco do brasil",
     "ourocard"
    ],
-   "fundo": "#FCF800",
+   "fundo": "#FCF500",
    "asset": "Marca-bb"
   },
   {
@@ -21,7 +21,7 @@
     "bradescard",
     "next bradesco"
    ],
-   "fundo": "#FFFFFF",
+   "fundo": "#D73735",
    "asset": "Marca-bradesco"
   },
   {
@@ -34,7 +34,7 @@
     "personnalite",
     "iti"
    ],
-   "fundo": "#FFFFFF",
+   "fundo": "#383888",
    "asset": "Marca-itau"
   },
   {
@@ -43,7 +43,7 @@
    "apelidos": [
     "santander"
    ],
-   "fundo": "#FFFFFF",
+   "fundo": "#F22300",
    "asset": "Marca-santander"
   },
   {
@@ -54,7 +54,7 @@
     "caixa economica",
     "cef"
    ],
-   "fundo": "#FFFFFF",
+   "fundo": "#0071B7",
    "asset": "Marca-caixa"
   },
   {
@@ -65,7 +65,7 @@
     "nu pagamentos",
     "nu"
    ],
-   "fundo": "#FFFFFF",
+   "fundo": "#9631D9",
    "asset": "Marca-nubank"
   },
   {
@@ -75,7 +75,7 @@
     "inter",
     "banco inter"
    ],
-   "fundo": "#FFFFFF",
+   "fundo": "#FF8E00",
    "asset": "Marca-inter"
   },
   {
@@ -86,7 +86,7 @@
     "c6 bank",
     "c6bank"
    ],
-   "fundo": "#FFFFFF",
+   "fundo": "#282828",
    "asset": "Marca-c6"
   },
   {
@@ -96,7 +96,7 @@
     "btg",
     "btg pactual"
    ],
-   "fundo": "#FFFFFF",
+   "fundo": "#09396E",
    "asset": "Marca-btg"
   },
   {
@@ -106,7 +106,7 @@
     "xp",
     "xp investimentos"
    ],
-   "fundo": "#FFFFFF",
+   "fundo": "#FFFEFF",
    "asset": "Marca-xp"
   },
   {
@@ -119,7 +119,7 @@
     "portoseg",
     "porto seguro cartoes"
    ],
-   "fundo": "#FFFFFF",
+   "fundo": "#005ECB",
    "asset": "Marca-porto"
   },
   {
@@ -129,7 +129,7 @@
     "pan",
     "banco pan"
    ],
-   "fundo": "#FFFFFF",
+   "fundo": "#00C0FA",
    "asset": "Marca-pan"
   },
   {
@@ -139,7 +139,7 @@
     "original",
     "banco original"
    ],
-   "fundo": "#FFFFFF",
+   "fundo": "#00B163",
    "asset": "Marca-original"
   },
   {
@@ -148,7 +148,7 @@
    "apelidos": [
     "picpay"
    ],
-   "fundo": "#FFFFFF",
+   "fundo": "#19C971",
    "asset": "Marca-picpay"
   },
   {
@@ -159,7 +159,7 @@
     "mercadopago",
     "mercado livre"
    ],
-   "fundo": "#FFFFFF",
+   "fundo": "#00AEE8",
    "asset": "Marca-mercadopago"
   },
   {
@@ -170,7 +170,7 @@
     "pagseguro",
     "pag bank"
    ],
-   "fundo": "#FFFFFF",
+   "fundo": "#FFD000",
    "asset": "Marca-pagbank"
   },
   {
@@ -179,7 +179,7 @@
    "apelidos": [
     "neon"
    ],
-   "fundo": "#FFFFFF",
+   "fundo": "#00AAF9",
    "asset": "Marca-neon"
   },
   {
@@ -188,7 +188,7 @@
    "apelidos": [
     "sicoob"
    ],
-   "fundo": "#FFFFFF",
+   "fundo": "#004552",
    "asset": "Marca-sicoob"
   },
   {
@@ -197,7 +197,7 @@
    "apelidos": [
     "sicredi"
    ],
-   "fundo": "#FFFFFF",
+   "fundo": "#4BAC12",
    "asset": "Marca-sicredi"
   },
   {
@@ -206,7 +206,7 @@
    "apelidos": [
     "banrisul"
    ],
-   "fundo": "#FFFFFF",
+   "fundo": "#006AB4",
    "asset": "Marca-banrisul"
   },
   {
@@ -216,7 +216,7 @@
     "brb",
     "banco de brasilia"
    ],
-   "fundo": "#FFFFFF",
+   "fundo": "#0053B4",
    "asset": "Marca-brb"
   },
   {
@@ -225,7 +225,7 @@
    "apelidos": [
     "safra"
    ],
-   "fundo": "#FFFFFF",
+   "fundo": "#0A2A50",
    "asset": "Marca-safra"
   },
   {
@@ -236,7 +236,7 @@
     "banco do nordeste",
     "nordeste"
    ],
-   "fundo": "#FFFFFF",
+   "fundo": "#B62B3B",
    "asset": "Marca-bnb"
   },
   {
@@ -247,7 +247,7 @@
     "banco bv",
     "votorantim"
    ],
-   "fundo": "#FFFFFF",
+   "fundo": "#2651A0",
    "asset": "Marca-bv"
   },
   {
@@ -257,7 +257,7 @@
     "bmg",
     "banco bmg"
    ],
-   "fundo": "#FFFFFF",
+   "fundo": "#FF8000",
    "asset": "Marca-bmg"
   },
   {
@@ -266,7 +266,7 @@
    "apelidos": [
     "stone"
    ],
-   "fundo": "#00A868",
+   "fundo": "#00B37B",
    "asset": "Marca-stone"
   },
   {
@@ -275,7 +275,7 @@
    "apelidos": [
     "cora"
    ],
-   "fundo": "#FFFFFF",
+   "fundo": "#FF597F",
    "asset": "Marca-cora"
   },
   {
@@ -286,7 +286,7 @@
     "magalu",
     "luiza"
    ],
-   "fundo": "#FFFFFF",
+   "fundo": "#009BFF",
    "asset": "Marca-magalupay"
   },
   {
@@ -296,7 +296,7 @@
     "agibank",
     "agi"
    ],
-   "fundo": "#FFFFFF",
+   "fundo": "#3281F9",
    "asset": "Marca-agibank"
   },
   {
@@ -305,7 +305,7 @@
    "apelidos": [
     "wise"
    ],
-   "fundo": "#163300",
+   "fundo": "#1B4000",
    "asset": "Marca-wise"
   },
   {
@@ -315,7 +315,7 @@
     "carrefour",
     "cartao carrefour"
    ],
-   "fundo": "#FFFFFF",
+   "fundo": "#0063AE",
    "asset": "Marca-carrefour"
   },
   {
@@ -324,7 +324,7 @@
    "apelidos": [
     "atacadao"
    ],
-   "fundo": "#FFFFFF",
+   "fundo": "#0DA56B",
    "asset": "Marca-atacadao"
   }
  ],
@@ -407,5 +407,33 @@
   "Amex": "amex",
   "Elo": null,
   "Outra": null
- }
+ },
+ "produtos": [
+  {
+   "id": "bradesco-the-platinum",
+   "nome": "Bradesco The Platinum (American Express)",
+   "emissor": "bradesco",
+   "bandeira": "amex",
+   "termos": [
+    [
+     "the",
+     "platinum"
+    ]
+   ],
+   "asset": "Produto-bradesco-the-platinum"
+  },
+  {
+   "id": "bradesco-prime-visa-infinite",
+   "nome": "Bradesco Prime Visa Infinite",
+   "emissor": "bradesco",
+   "bandeira": "visa",
+   "termos": [
+    [
+     "infinite"
+    ]
+   ],
+   "asset": "Produto-bradesco-prime-visa-infinite"
+  }
+ ],
+ "observacaoProdutos": "Arte da FRENTE do cartão (cartão grande). Casa quando o emissor reconhecido é o mesmo, a bandeira (se dada) é a mesma e TODAS as palavras de um dos termos aparecem inteiras no nome; vence o termo com mais palavras. Sem arte oficial em boa qualidade = sem entrada (nada inventado)."
 }
